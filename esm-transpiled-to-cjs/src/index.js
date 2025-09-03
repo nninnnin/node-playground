@@ -1,1 +1,5 @@
-export default { myName: "Justin" };
+import Me from "./Me.js";
+
+(function () {
+  Me.sayMyName();
+})();
