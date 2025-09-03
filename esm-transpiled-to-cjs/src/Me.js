@@ -5,4 +5,6 @@ const Me = {
   },
 };
 
+export const myAge = 20;
+
 export default Me;
